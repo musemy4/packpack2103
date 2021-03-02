@@ -1,0 +1,17 @@
+body{
+    color: $font_color;
+    padding-top: 10%;
+    padding-left: 10%;
+    line-height: $line_height;
+}
+
+h1{
+    font: {
+        size: $font_size;
+        family: $font_family;
+    }
+}
+
+h4{
+    color: black;
+}
